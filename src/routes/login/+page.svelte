@@ -103,10 +103,7 @@
 					<EyeSlashOutline size="sm" class="mr-2 focus:outline-none" />
 					Your device connects directly to StudentVue. We can't see your password or your grades.
 				</Helper>
-				<Helper class="text-xs flex items-center">
-					<InfoCircleOutline size="sm" class="mr-2 focus:outline-none" />
-					
-				</Helper>
+				
 			</Label>
 			<Accordion flush class="mb-4">
 				<AccordionItem paddingFlush="mb-2" borderBottomClass="" class="text-white">
