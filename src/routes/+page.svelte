@@ -35,7 +35,7 @@
 		</p>
 		<div class="mt-4 flex space-x-4">
 			<Button href="/login" color="light" class="w-full">Log in</Button>
-			<Button href="/signup" class="w-full">Sign up</Button>
+			
 		</div>
 	</Card>
 
