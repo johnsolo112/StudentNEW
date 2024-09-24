@@ -91,13 +91,14 @@
 					type="text"
 					id="username"
 					bind:value={username}
-					placeholder="student@school.net"
+					placeholder="josmith"
 					required
 				/>
 			</Label>
 			<Label class="space-y-2 mb-4">
 				<span>Password</span>
-				<Input type="password" id="password" bind:value={password} class="mb-2" required />
+	
+				<Input type="password" id="password" bind:value={password} class="mb-2"  placeholder="Google Password" required />
 				<Helper class="text-xs flex items-center">
 					<EyeSlashOutline size="sm" class="mr-2 focus:outline-none" />
 					Your device connects directly to StudentVue. We can't see your password or your grades.
