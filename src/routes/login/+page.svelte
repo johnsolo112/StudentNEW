@@ -105,10 +105,7 @@
 				</Helper>
 				<Helper class="text-xs flex items-center">
 					<InfoCircleOutline size="sm" class="mr-2 focus:outline-none" />
-					<span>
-						If you've never used GradeVue or SynergyPlus before, you may need to
-						<a href="/signup" class="text-primary-600 underline">create a password</a>.
-					</span>
+					
 				</Helper>
 			</Label>
 			<Accordion flush class="mb-4">
