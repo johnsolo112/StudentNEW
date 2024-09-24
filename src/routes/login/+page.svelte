@@ -32,7 +32,7 @@
 
 	let username: string;
 	let password: string;
-	let domain: string = 'ca-pleas-psv.edupoint.com';
+	let domain: string = 'ca-nhu.edupoint.com';
 
 	let loginErrorShown = false;
 	let loginError: string;
