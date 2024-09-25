@@ -105,14 +105,8 @@
 				</Helper>
 				
 			</Label>
-			<Accordion flush class="mb-4">
-				<AccordionItem paddingFlush="mb-2" borderBottomClass="" class="text-white">
-					<span slot="header" class="text-sm dark:text-gray-300">Advanced</span>
-					<Label class="space-y-2">
-						<span>Domain</span>
-						<Input type="text" id="domain" bind:value={domain} required />
-					</Label>
-				</AccordionItem>
+			
+			
 			</Accordion>
 			<Button type="submit" class="w-full">Log in</Button>
 		</form>
