@@ -107,7 +107,6 @@
 			</Label>
 			
 			
-			</Accordion>
 			<Button type="submit" class="w-full">Log in</Button>
 		</form>
 	</Card>
