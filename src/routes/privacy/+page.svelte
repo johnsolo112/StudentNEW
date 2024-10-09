@@ -3,7 +3,7 @@
 	import { Card } from 'flowbite-svelte';
 
 	let email = '[email protected]';
-	if (browser) email = 'hello@BetterVue.org';
+	if (browser) email = 'jsolo112@proton.me;
 </script>
 
 <svelte:head>
@@ -14,8 +14,7 @@
 	<Card size="lg" class="gap-4">
 		<h1 class="text-2xl text-white">About the privacy of BetterVue</h1>
 		<p>
-			I developed BetterVue during winter break after using SynergyPlus and being concerned about the
-			privacy of the service. BetterVue is designed to keep students' information private the entire
+			 BetterVue is designed to keep students' information private the entire
 			time you use the service. It's similar to using the StudentVue app; even though you're not
 			viewing the offical website, you're still accessing your grades securely, just in a more
 			convenient manner.
@@ -25,12 +24,11 @@
 			When a student logs in to BetterVue, their username and password are sent directly to the
 			offical website, using the built-in
 			<a
-				href="https://ca-pleas-psv.edupoint.com/Service/PXPCommunication.asmx"
+				href="https://ca-nhu.edupoint.com/Service/PXPCommunication.asmx"
 				class="text-primary-600 underline"
 			>
 				Synergy API
-			</a>. This is different from SynergyPlus, which sends the login information through their
-			servers without ever informing the user.
+			</a>.
 		</p>
 
 		<span>
