@@ -84,7 +84,7 @@
 	</div>
 
 	<Button
-		href="https://github.com/johnsolo112BetterVue"
+		href="https://github.com/johnsolo112/BetterVue"
 		target="_blank"
 		color="light"
 		class="gap-2"
