@@ -3,7 +3,7 @@
 	import { Card } from 'flowbite-svelte';
 
 	let email = '[email protected]';
-	if (browser) email = 'jsolo112@proton.me;
+	if (browser) email = 'jsolo112@proton.me';
 </script>
 
 <svelte:head>
