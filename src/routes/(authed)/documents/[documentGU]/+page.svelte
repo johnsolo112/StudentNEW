@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>Document - GradeVue</title>
+	<title>Document - BetterVue</title>
 </svelte:head>
 
 {#if reportCardPromise}

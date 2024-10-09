@@ -33,7 +33,7 @@
 </script>
 
 <svelte:head>
-	<title>Messages - GradeVue</title>
+	<title>Messages - BetterVue</title>
 </svelte:head>
 
 <LoadingBanner show={!$messagesLoaded} loadingMsg="Loading messages..." />

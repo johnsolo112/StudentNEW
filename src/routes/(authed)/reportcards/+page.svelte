@@ -10,7 +10,7 @@
 </script>
 
 <svelte:head>
-	<title>Report Cards - GradeVue</title>
+	<title>Report Cards - BetterVue</title>
 </svelte:head>
 
 <LoadingBanner show={!$reportCardListLoaded} loadingMsg="Loading report cards..." />

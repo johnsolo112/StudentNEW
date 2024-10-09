@@ -66,7 +66,7 @@
 </script>
 
 <svelte:head>
-	<title>Log In - Gradevue</title>
+	<title>Log In - BetterVue</title>
 </svelte:head>
 
 <LoadingBanner show={loggingIn} loadingMsg="Logging you in..." />
@@ -84,7 +84,7 @@
 <div class="flex items-center justify-center min-h-screen">
 	<Card>
 		<form on:submit|preventDefault={login}>
-			<h1 class="text-xl mb-4 dark:text-white">Sign in to GradeVue</h1>
+			<h1 class="text-xl mb-4 dark:text-white">Sign in to BetterVue</h1>
 			<Label class="space-y-2 mb-4">
 				<span>Username</span>
 				<Input

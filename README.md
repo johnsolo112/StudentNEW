@@ -1,4 +1,4 @@
-# GradeVue
+# BetterVue
 
 An improved StudentVue experience.
 
@@ -21,4 +21,4 @@ bun run build
 
 You can preview the production build with `bun run preview`.
 
-Commits to this repository will automatically be deployed to [Vercel](https://gradevue.org).
+Commits to this repository will automatically be deployed to [Vercel](https://BetterVue.org).

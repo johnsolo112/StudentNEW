@@ -20,7 +20,7 @@
 </script>
 
 <svelte:head>
-	<title>Grades - GradeVue</title>
+	<title>Grades - BetterVue</title>
 </svelte:head>
 
 {#if $gradebook}

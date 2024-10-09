@@ -4,12 +4,12 @@
 </script>
 
 <svelte:head>
-	<title>Feedback - GradeVue</title>
+	<title>Feedback - BetterVue</title>
 </svelte:head>
 
 <div class="p-4 flex flex-col items-center justify-center min-h-screen">
 	<Card
-		href="https://github.com/Nonexistent-Name/gradevue/issues"
+		href="https://github.com/Nonexistent-Name/BetterVue/issues"
 		class="flex flex-row items-center gap-4"
 	>
 		<GithubSolid size="xl" class="focus:outline-none text-white" />

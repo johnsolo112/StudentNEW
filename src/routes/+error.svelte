@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-    <title>{$page.status} {$page?.error?.message} - GradeVue</title>
+    <title>{$page.status} {$page?.error?.message} - BetterVue</title>
 </svelte:head>
 
 <div class="flex items-center justify-center min-h-screen">

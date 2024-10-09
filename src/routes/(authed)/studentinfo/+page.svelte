@@ -9,7 +9,7 @@
 </script>
 
 <svelte:head>
-	<title>Student Info - GradeVue</title>
+	<title>Student Info - BetterVue</title>
 </svelte:head>
 
 <LoadingBanner show={!$studentInfoLoaded} loadingMsg="Loading student info..." />

@@ -38,7 +38,7 @@
 <div class="fixed top-0 w-full z-10 md:hidden">
 	<Navbar>
 		<NavHamburger onClick={showSidebar} />
-		<NavBrand href="/grades" class="mr-auto text-xl">GradeVue</NavBrand>
+		<NavBrand href="/grades" class="mr-auto text-xl">BetterVue</NavBrand>
 	</Navbar>
 	<Drawer {transitionParams} bind:hidden={drawerHidden} class="p-0 m-0 w-auto">
 		<AppSidebar />

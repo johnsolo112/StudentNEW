@@ -40,7 +40,7 @@
 </script>
 
 <svelte:head>
-	<title>Documents - GradeVue</title>
+	<title>Documents - BetterVue</title>
 </svelte:head>
 
 <LoadingBanner show={!$documentsListLoaded} loadingMsg="Loading documents..." />
